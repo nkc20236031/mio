@@ -12,10 +12,10 @@
 <br>
 
 # What we are currently using
-<img src="https://skillicons.dev/icons?i=blender,cs,git,github,notion,rider,unity,visualstudio" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=blender,cs,git,github,notion,rider,unity" /> <br /><br />
 
 # What we used in the past
-<img src="https://skillicons.dev/icons?i=html,androidstudio,idea,java,js,kotlin,swift,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,androidstudio,idea,java,js,kotlin,swift,vscode,visualstudio" /> <br /><br />
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkc20236031&layout=compact&show_icons=true&theme=onedark" />
