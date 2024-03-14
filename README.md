@@ -17,9 +17,6 @@
 # What we used in the past
 <img src="https://skillicons.dev/icons?i=html,androidstudio,idea,java,js,kotlin,swift,vscode" /> <br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkc20236031&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkc20236031&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkc20236031&layout=compact&show_icons=true&theme=merko" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkc20236031&theme=merko&show_icons=ture" />
