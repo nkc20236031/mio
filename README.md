@@ -10,12 +10,9 @@
     </h1>
   </div>
 <br><br><br>
-#
 
 # What we are currently using
-
 <img src="https://skillicons.dev/icons?i=blender,cs,cpp,dotnet,git,github,notion,rider,unity,unreal,visualstudio" /> <br /><br />
 
 # What we used in the past
-
 <img src="https://skillicons.dev/icons?i=html,androidstudio,idea,ipfs,java,js,kotlin,swift,vscode" /> <br /><br />
