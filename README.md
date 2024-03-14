@@ -24,4 +24,4 @@
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkc20236031&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkc20236031&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
