@@ -12,7 +12,7 @@
 <br>
 
 # What we are currently using
-<img src="https://skillicons.dev/icons?i=blender,cs,git,github,notion,rider,unity" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=blender,cs,cpp,git,github,notion,rider,unity" /> <br /><br />
 
 # What we used in the past
 <img src="https://skillicons.dev/icons?i=html,androidstudio,idea,java,js,kotlin,swift,vscode,visualstudio" /> <br /><br />
