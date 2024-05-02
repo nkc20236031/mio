@@ -10,18 +10,3 @@
     </h1>
   </div>
 <br>
-
-# What we are currently using
-# <img src="https://skillicons.dev/icons?i=blender,cs,cpp,git,github,notion,rider,unity" /> <br /><br />
-
-# What we used in the past
-# <img src="https://skillicons.dev/icons?i=html,androidstudio,idea,java,js,kotlin,swift,vscode,visualstudio" /> <br /><br />
-
-# <p align="left"> 
-#   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkc20236031&layout=compact&show_icons=true&theme=onedark" />
-#   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nkc20236031&theme=onedark&show_icons=ture" />
-# </p>
-
-# <br><br>
-
-# [![trophy](https://github-profile-trophy.vercel.app/?username=nkc20236031&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
